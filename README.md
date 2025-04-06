@@ -34,15 +34,17 @@ drive.mount('/content/drive')
 ### Step 3: Run the Notebook
 once this is all set up run the notebook and everything will run automatically. 
 
+
+
+
 ## Publication
 
 The development of **LinTUNet** is inspired by the paper:
-
 **Title**: LinTUNet: A Hybrid Transformer-CNN Architecture for Brain Tumor Segmentation  
-**Authors**: [Lawrence Menegus], [DongSheng Che] 
-**Published in**: [PACISE Conference]  
-**Year**: [2025]  
-**Link**: [Link to publication or DOI]
+**Authors**: Lawrence Menegus, DongSheng Che
+**Published in**: PACISE Conference  
+**Year**: 2025
+
 
 ## Contributors: 
 Lawrence Menegus 
