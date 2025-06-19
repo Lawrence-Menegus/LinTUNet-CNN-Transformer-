@@ -22,7 +22,7 @@ This project is designed to load, preprocess, and prepare image segmentation dat
 ## Steps to Run the Notebook
 
 ### Step 1: Upload the Data to Google Drive
-- Download the dataset file `Data_Internship.zip` and upload it to your Google Drive, preferably in the directory: `MyDrive/Publication/`.
+- Download the dataset file `Data.zip` from the kaggle dataset and upload it to your Google Drive, preferably in the directory: `MyDrive/.
 - Ensure that the dataset contains the folders `train`, `test`, and `valid`, and the associated annotation files for each.
 
 ### Step 2: Mount Google Drive in Colab
