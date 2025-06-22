@@ -1,6 +1,6 @@
-# LinTUNet: A Hybrid Transformer-CNN Architecture for Brain Tumor Segmentation
+# LinTUNet: A Hybrid Sparse Transformer-CNN Architecture for Brain Tumor Segmentation
 
-LinTUNet is a hybrid model combining the power of Transformer-based attention mechanisms with CNN-based architectures, specifically designed to improve brain tumor segmentation from MRI scans. This architecture leverages sparse self-attention using the **Sparse Linformer** to enhance feature extraction and capture long-range dependencies in medical images. The model is implemented and executed in a Jupyter Notebook using Google Colab.
+LinTUNet is a hybrid model combining the power of Sparse Transformer-based attention mechanisms with CNN-based architectures, specifically designed to improve brain tumor segmentation from MRI scans. This architecture leverages sparse self-attention using the **Sparse Linformer** to enhance feature extraction and capture long-range dependencies in medical images. The model is implemented and executed in a Jupyter Notebook using Google Colab.
 
 ## Overview
 
